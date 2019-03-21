@@ -1,1 +1,0 @@
-Hello one more file added to Jenkins project
